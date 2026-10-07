@@ -1,0 +1,443 @@
+{
+ "/images/menu/nawabi-deal.jpg": {
+  "color": "#594c39",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "Q3iHM5x4S1M",
+  "by": "Oscar Ramirez"
+ },
+ "/images/menu/whopping-wednesday.jpg": {
+  "color": "#483323",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "T_PbUhfwd0U",
+  "by": "Daniel"
+ },
+ "/images/menu/wow-pocket-pizza.jpg": {
+  "color": "#8d6b43",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "6eAfaHjqThk",
+  "by": "Freddy G"
+ },
+ "/images/menu/wow-value-pasta.jpg": {
+  "color": "#918663",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "qxvhDhjFy4o",
+  "by": "Emanuel Ekstr\u00f6m"
+ },
+ "/images/menu/wow-20-inch-slice.jpg": {
+  "color": "#705039",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "QmN3yuv5L_c",
+  "by": "Daniel"
+ },
+ "/images/menu/wow-lava-cake.jpg": {
+  "color": "#8a887d",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "Pzjez86SsvQ",
+  "by": "Max Griss"
+ },
+ "/images/menu/personal-box.jpg": {
+  "color": "#604b41",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "M-pEl_nv1Q0",
+  "by": "Eiliv Aceron"
+ },
+ "/images/menu/slice-box.jpg": {
+  "color": "#aa8366",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "jCvbQdgHxFo",
+  "by": "No Revisions"
+ },
+ "/images/menu/trio-box.jpg": {
+  "color": "#99896d",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "oii8cLseh30",
+  "by": "Davey Gravy"
+ },
+ "/images/menu/share-box.jpg": {
+  "color": "#785e4e",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "5eoiyhGLFb4",
+  "by": "Klara Kulikova"
+ },
+ "/images/menu/crazy-double-small.jpg": {
+  "color": "#b6a59b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "nP11TkjxJ7s",
+  "by": "Kristina Bratko"
+ },
+ "/images/menu/crazy-double-large.jpg": {
+  "color": "#77411b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "38WKXFysDKc",
+  "by": "Will Ma"
+ },
+ "/images/menu/fiesta-deal.jpg": {
+  "color": "#674333",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "gefYFI0VnTw",
+  "by": "Eric Nopanen"
+ },
+ "/images/menu/house-full-deal.jpg": {
+  "color": "#695244",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "QATxlTPJImo",
+  "by": "Klara Kulikova"
+ },
+ "/images/menu/kids-star-pizza.jpg": {
+  "color": "#b08255",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "gEtrD3NI0hk",
+  "by": "Aldward Castillo"
+ },
+ "/images/menu/kids-chick-n-fries.jpg": {
+  "color": "#926d45",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "e7yjYr8GxN0",
+  "by": "Tyson"
+ },
+ "/images/menu/garlic-breads-6pcs.jpg": {
+  "color": "#74665a",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "nMWrV29cg6c",
+  "by": "Jay Gajjar"
+ },
+ "/images/menu/saucy-garlic-bread-6pcs.jpg": {
+  "color": "#8d684b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "vX075UlhgP4",
+  "by": "Anna Rafal"
+ },
+ "/images/menu/mozarella-breads-6pcs.jpg": {
+  "color": "#a99470",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "n_q3Dyzv9jQ",
+  "by": "Scott Eckersley"
+ },
+ "/images/menu/crinkle-fries-200g.jpg": {
+  "color": "#382a14",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "W10EFJvbu4c",
+  "by": "Wahid Sadiq"
+ },
+ "/images/menu/chicken-mega-bites-6pcs.jpg": {
+  "color": "#8c6c52",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "WScUzPUGkQQ",
+  "by": "Dynamic Wang"
+ },
+ "/images/menu/chicken-wings-6pcs.jpg": {
+  "color": "#ae7c4b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "gE28aTnlqJA",
+  "by": "Chad Montano"
+ },
+ "/images/menu/pizza-roll.jpg": {
+  "color": "#924f34",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "hipm7nFgu2o",
+  "by": "Mihaela Moscovciuc"
+ },
+ "/images/menu/value-spicy-garlic-ranch-pasta.jpg": {
+  "color": "#88745b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "2Djzc4AOqxs",
+  "by": "Jasbir S Bhatia"
+ },
+ "/images/menu/starter-box.jpg": {
+  "color": "#5f5136",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "BRMvT4sw-4c",
+  "by": "sandevil sandh"
+ },
+ "/images/menu/creamy-supreme.jpg": {
+  "color": "#ad895d",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "mwYTNZO0WhA",
+  "by": "Faizan Saeed"
+ },
+ "/images/menu/chicken-surprise.jpg": {
+  "color": "#7f5c36",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "MqT0asuoIcU",
+  "by": "Chad Montano"
+ },
+ "/images/menu/chicago-bold-fold.jpg": {
+  "color": "#c38a4f",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "Wwod6YKirbs",
+  "by": "sehoon ye"
+ },
+ "/images/menu/phantom.jpg": {
+  "color": "#705132",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "DB0v9qJKQJw",
+  "by": "David Foodphototasty"
+ },
+ "/images/menu/dancing-fajita.jpg": {
+  "color": "#693b1b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "sejqj6Eaqe8",
+  "by": "Pranjall Kumar"
+ },
+ "/images/menu/tarzan-tikka.jpg": {
+  "color": "#a16750",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "V8F8qYxkb_0",
+  "by": "Sharan Pagadala"
+ },
+ "/images/menu/mughlai-beast.jpg": {
+  "color": "#734527",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "KPj-UKTReZM",
+  "by": "Lara John"
+ },
+ "/images/menu/all-cheese.jpg": {
+  "color": "#4d4530",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "-0nj85eRLPk",
+  "by": "Narek Petrosyan"
+ },
+ "/images/menu/all-veggie.jpg": {
+  "color": "#876c4b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "tBDNyl_cmJU",
+  "by": "Usman Aslam"
+ },
+ "/images/menu/kabab-pro-max.jpg": {
+  "color": "#985f46",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "m8RCK_aYZNY",
+  "by": "Sharan Pagadala"
+ },
+ "/images/menu/jamaican-bbq.jpg": {
+  "color": "#b7754a",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "6tyNG1rnx3U",
+  "by": "Amber BC"
+ },
+ "/images/menu/west-side-garlic.jpg": {
+  "color": "#6b593d",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "JG5lgvc57qE",
+  "by": "georgia z"
+ },
+ "/images/menu/mamamia-classic.jpg": {
+  "color": "#967363",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "T0q4_yyQ4Hg",
+  "by": "Joanie Simon"
+ },
+ "/images/menu/godspell-beef-load.jpg": {
+  "color": "#ad7c3e",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "to58jbQ2ElM",
+  "by": "Sadia Alam"
+ },
+ "/images/menu/gypsy-euro.jpg": {
+  "color": "#826d59",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "DEzv3gH5rIg",
+  "by": "amin ramezani"
+ },
+ "/images/menu/wicked-blend.jpg": {
+  "color": "#674c37",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "UpyfnDr6SPk",
+  "by": "RUSU CIPRIAN"
+ },
+ "/images/menu/arabic-ranch.jpg": {
+  "color": "#895422",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "MQUqbmszGGM",
+  "by": "Ivan Torres"
+ },
+ "/images/menu/habanero-kick.jpg": {
+  "color": "#6a5341",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "KzQLyKay1UA",
+  "by": "Ahmadreza Rezaie"
+ },
+ "/images/menu/oven-baked-sandwiches.jpg": {
+  "color": "#877559",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "BiWb1Y8wpZk",
+  "by": "Pixzolo Photography"
+ },
+ "/images/menu/creamy-pastas.jpg": {
+  "color": "#55503f",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "971_E-LvZuc",
+  "by": "kimia kazemi"
+ },
+ "/images/menu/calzones.jpg": {
+  "color": "#9c7847",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "6jOG00umfag",
+  "by": "bahareh moradian"
+ },
+ "/images/menu/chocolate-bread-6pcs.jpg": {
+  "color": "#976752",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "I_9FkvP3b6s",
+  "by": "Adam Bartoszewicz"
+ },
+ "/images/menu/chocolate-lava-cake.jpg": {
+  "color": "#c2aa99",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "gHm50qaMaXc",
+  "by": "Jennifer Schmidt"
+ },
+ "/images/menu/pepsi.jpg": {
+  "color": "#7e848b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "82LJQZGwW5o",
+  "by": "NIKHIL"
+ },
+ "/images/menu/7up.jpg": {
+  "color": "#1a412e",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "nptwmiLrTzk",
+  "by": "Hadi Ul hassan"
+ },
+ "/images/menu/mirinda.jpg": {
+  "color": "#976a54",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "uCtJy7YavP8",
+  "by": "Faris Mohammed"
+ },
+ "/images/menu/mountain-dew.jpg": {
+  "color": "#aeb2aa",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "xncPCVuhXy8",
+  "by": "Anil Jose Xavier"
+ },
+ "/images/menu/mineral-water.jpg": {
+  "color": "#80807b",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "MiwMSarIpdg",
+  "by": "Valquiria Ribeiro"
+ },
+ "/images/menu/dip-garlic-ranch.jpg": {
+  "color": "#7c5f31",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "8i6HW6coQCQ",
+  "by": "Fethi Benattallah"
+ },
+ "/images/menu/dip-bbq-ranch.jpg": {
+  "color": "#816537",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "dZDXAjUnEVk",
+  "by": "joe boshra"
+ },
+ "/images/menu/dip-jalapeno-ranch.jpg": {
+  "color": "#a7977e",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "1igValW0Szo",
+  "by": "Mikey Frost"
+ },
+ "/images/menu/dip-spicy-habanero.jpg": {
+  "color": "#dbaf8f",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "v3YKEu_Seo4",
+  "by": "Bunly Hort"
+ },
+ "/images/menu/ketchup-sachet.jpg": {
+  "color": "#b79577",
+  "w": 960,
+  "h": 960,
+  "unsplashId": "iOqJG1R__gA",
+  "by": "Sama Hosseini"
+ },
+ "/images/site/hero.jpg": {
+  "color": "#664f3e",
+  "w": 2400,
+  "h": 1600,
+  "unsplashId": "x5yy1BDBTQk",
+  "by": "Adrian Maximiliano Arellano"
+ },
+ "/images/site/hero-mobile.jpg": {
+  "color": "#67503f",
+  "w": 1080,
+  "h": 1200,
+  "unsplashId": "x5yy1BDBTQk",
+  "by": "Adrian Maximiliano Arellano"
+ },
+ "/images/site/dough.jpg": {
+  "color": "#635853",
+  "w": 1200,
+  "h": 1500,
+  "unsplashId": "4yzEtTQLdL4",
+  "by": "Arturrro"
+ },
+ "/images/site/oven.jpg": {
+  "color": "#6c4328",
+  "w": 1600,
+  "h": 1100,
+  "unsplashId": "vHRFraV4U00",
+  "by": "Fabrizio Pullara"
+ },
+ "/images/site/cta.jpg": {
+  "color": "#65483b",
+  "w": 2000,
+  "h": 1400,
+  "unsplashId": "wRw1MugFisQ",
+  "by": "amin ramezani"
+ }
+}
